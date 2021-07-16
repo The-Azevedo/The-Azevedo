@@ -11,6 +11,6 @@ Como me achar? 👇
 Meu nome é Wender, moro em São Paulo, Programador Aspirante, Analista de Dados e Futuro Cientista de Dados. 
 
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-Azevedo&show_icons=true&theme=radical)](https://github.com/The-Azevedo/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-Azevedo&show_icons=true&theme=radical)](https://github.com/The-Azevedo/github-readme-stats)   
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Azevedo&layout=compact&theme=radical)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Azevedo&layout=compact&theme=radical)
