@@ -1,5 +1,5 @@
 # _*Olá! Eu sou Wender.*_ 
-Me alcancem 👇
+Como me achar? 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wender-azevedo-b3540a171/)](https://www.linkedin.com/in/wender-azevedo-b3540a171/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=flat-square&logo=Instagram&logoColor=blueviolet&link=https://www.instagram.com/the_azevedo/)](https://www.instagram.com/the_azevedo/)
@@ -8,7 +8,7 @@ Me alcancem 👇
 
 - Data Analyst in [@Humanittare](https://www.humanittare.com.br/)
 
-My name is Wender, Aspiring Programmer, Data Analyst and Future Data Science.
+Meu nome é Wender, moro em São Paulo, Programador Aspirante, Analista de Dados e Futuro Cientista de Dados. 
 
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-Azevedo)](https://github.com/The-Azevedo/github-readme-stats)
